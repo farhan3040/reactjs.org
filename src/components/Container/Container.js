@@ -1,6 +1,5 @@
-/**
+/*
  * Copyright (c) Facebook, Inc. and its affiliates.
- *
  * @emails react-core
  * @flow
  */
@@ -11,7 +10,7 @@ import {media} from 'theme';
 
 import type {Node} from 'react';
 
-/**
+/*
  * This component wraps page content sections (eg header, footer, main).
  * It provides consistent margin and max width behavior.
  */
